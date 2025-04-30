@@ -18,16 +18,16 @@ Inside each level folder, there are subfolders for each programming language use
 📂 Codeforces-Solutions/  
 ├── 📁 A/  
 │   ├── 📁 cpp/  
-│   │   ├── 1A_TheatreSquare.cpp  
-│   │   └── 4A_Watermelon.cpp  
+│   │   ├─── 1A_TheatreSquare.cpp  
+│   │   └─── 4A_Watermelon.cpp  
 │   └── 📁 python/  
-│       ├── 1A_TheatreSquare.py  
-│       └── 4A_Watermelon.py  
+│       ├─── 1A_TheatreSquare.py  
+│       └─── 4A_Watermelon.py  
 ├── 📁 B/  
 │   ├── 📁 cpp/  
-│   │   └── 118B_Presents.cpp  
+│   │   └─── 118B_Presents.cpp  
 │   └── 📁 python/  
-│       └── 118B_Presents.py  
+│       └─── 118B_Presents.py  
 └── 📁 C/  
     ├── 📁 cpp/  
     └── 📁 python/  
